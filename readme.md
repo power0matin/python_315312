@@ -1,1 +1,0 @@
-vless://06b451c2-b15d-4700-89b9-9397eb8e6c7c@shop.hypershield.xyz:55942?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#powermatin
